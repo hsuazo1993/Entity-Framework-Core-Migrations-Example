@@ -17,6 +17,7 @@ This repository demonstrates how to use Entity Framework Core migrations to mana
    * `Microsoft.EntityFrameworkCore`
    * `Microsoft.EntityFrameworkCore.SqlServer`
    * `Microsoft.EntityFrameworkCore.Design`
+   * `Microsoft.EntityFrameworkCore.Tools`
 
 4. **Configure the database connection:**
    In your `appsettings.json` or `appsettings.Development.json` file, add a connection string to your SQL Server database:
