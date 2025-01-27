@@ -6,7 +6,7 @@ This repository demonstrates how to use Entity Framework Core migrations to mana
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Entity-Framework-Core-Migrations-Example.git](https://www.google.com/search?q=https://github.com/your-username/Entity-Framework-Core-Migrations-Example.git)
+   git clone https://github.com/hsuazo1993/Entity-Framework-Core-Migrations-Example.git
    ```
 
 2. **Open the solution:** Open the `EFCoreMigrationsExample.sln` file in Visual Studio.
